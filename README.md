@@ -8,11 +8,12 @@ A project to display the personal details and redirect to github profile by webv
 2. Personal Details page
 3. Open to GitHub profile
 
-## Screens
+## Technologies
+  Flutter v3.10.6
+  
+  Dart v3.0.6
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Guide
+To run this project, make sure youre using Flutter v3.10.6, clone the repository and run the following commands on terminal
+"flutter pub get" to get dependencies for the project and " flutter run" to run the project.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
