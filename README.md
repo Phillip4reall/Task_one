@@ -1,12 +1,14 @@
-# task1
+# Task one... A slack personal details
 
-A new Flutter project.
+A project to display the personal details and redirect to github profile by webview
 
-## Getting Started
+## App Features
 
-This project is a starting point for a Flutter application.
+1. Splash Screen
+2. Personal Details page
+3. Open to GitHub profile
 
-A few resources to get you started if this is your first Flutter project:
+## Screens
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
