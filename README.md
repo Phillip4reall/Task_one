@@ -19,5 +19,5 @@ To run this project, make sure youre using Flutter v3.10.6, clone the repository
 
 ## Sreens
 
-![2023-09-08 01-10-19 High Res Screenshot](https://github.com/Phillip4reall/Task_one/assets/109076493/153df552-d497-4935-aa0b-2324241b3739)
-![2023-09-08 01-10-23 High Res Screenshot](https://github.com/Phillip4reall/Task_one/assets/109076493/f6f7eabf-acad-4150-aa96-a8a444f7e41b)
+![Capture](https://github.com/Phillip4reall/Task_one/assets/109076493/ffa48e94-7f04-4258-a1cc-88ef32bbe31d)
+![imagei](https://github.com/Phillip4reall/Task_one/assets/109076493/b30af808-ae2a-4fd9-bea9-24a0af9e25bb)
