@@ -8,6 +8,9 @@ A project to display the personal details and redirect to github profile by webv
 2. Personal Details page
 3. Open to GitHub profile
 
+## Appetizer.io link
+https://appetize.io/app/hzfgymysjtddjqxjiqcqc6hqgm?device=pixel4&osVersion=12.0&scale=75
+
 ## Technologies
   Flutter v3.10.6
   
